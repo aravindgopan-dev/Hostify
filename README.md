@@ -1,19 +1,6 @@
 # Hostify - Microservices
 
-A production-ready microservices-based platform for deploying web applications, built with modern cloud infrastructure and container orchestration.
-
-## Project Overview
-
-Hostify is a **full-stack cloud deployment platform** that automates the entire CI/CD pipeline for web applications. Similar to Vercel, it allows developers to deploy their projects by simply providing a Git repository URL, with automatic building, containerization, and hosting.
-
-### Key Features
-
-- **🚀 One-click Deployment**: Deploy any web application from a Git repository URL
-- **📦 Automated Build Pipeline**: Containerized builds using AWS ECS Fargate
-- **⚡ Real-time Monitoring**: Live build logs via WebSocket connections
-- **🌐 Global CDN**: Static file serving through AWS S3 with custom domains
-- **🔄 Microservices Architecture**: Scalable, distributed system design
-- **🔒 Security-First**: Environment-based configuration with no hardcoded credentials
+One click react frontend deployment service(similar to vercel) implemented on top of aws.
 
 ### AWS Technology Stack
 
